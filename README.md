@@ -12,6 +12,10 @@ Geliştirilen uygulama yazılımı Microsoft Windows işletim sistemine yazılm�
 | Photoshop CS5   | Ekran ve banner’ların tasarımına görsellik kazandırmak amacıyla mevcut araca ek olarak bu yazılım aracından istifade edilmiştir. |
 
 
+Aşağıda UML diyagramı verilmiştir.
+
+![Uml Diyagramı](http://ertugrulungor.com/wp-content/uploads/2016/02/a5-e1454452754238.jpg)
+
 Kullanılan sınıfların açıklamaları: 
 -------------
 UML diyagramında kullanılan sınıfların detaylı açıklamaları ve işlevleri şunlardır:
