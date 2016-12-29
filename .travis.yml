@@ -1,0 +1,8 @@
+language: csharp
+solution: tcdd.sln
+before_install:
+  - sudo apt-get install nunit-console
+before_script:
+  - nuget restore tcdd.sln
+after_script:
+  - nunit-console Tests/bin/Release/Tests.dll
